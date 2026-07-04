@@ -1,0 +1,13 @@
+title: Anaesthetics Quick-Start
+description: The science and clinical basics for your first 18 months in anaesthesia.
+url: "https://rosewarnedm.github.io"
+baseurl: "/anaesthetics-quickstart"
+remote_theme: just-the-docs/just-the-docs
+permalink: pretty
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+aux_links:
+  "GitHub": "https://github.com/rosewarnedm/anaesthetics-quickstart"
+plugins:
+  - jekyll-remote-theme
